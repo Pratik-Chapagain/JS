@@ -1,6 +1,6 @@
 let firstName="Pratik";
 let age=18;
-let ismarried="fjdjfdj";
+let ismarried="fjdjfdj"; 
 
 
 
