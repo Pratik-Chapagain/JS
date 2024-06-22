@@ -1,12 +1,9 @@
-// for of loop
+let gamenum=25;
 
-let str= "Pratik Chapagain";
+let usernum=prompt("guess the game number:");
+console.log(usernum);
+while(usernum != gamenum){
+    usernum=prompt("you entered the wrong number. guess again:");
+}
 
-let size=0;
- for (let i of str)
-    {
-        console.log("i+",i);
-        size++;
-    }
-
-     console.log("string size=", size);
+console.log("congratulations you entered the right number");
