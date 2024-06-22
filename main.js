@@ -1,3 +1,7 @@
-for(let count=1;count<=5;count++){
-    console.log("Pratik Chapagain")
-}
+// for of loop
+
+let str= "Pratik Chapagain";
+ for (let i of str)
+    {
+        console.log("i+",i);
+    }
