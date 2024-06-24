@@ -1,2 +1,1 @@
-let str = "Pratik\tChapagain";
-console.log(str.length); 
+let str = "PratikChapagain";
