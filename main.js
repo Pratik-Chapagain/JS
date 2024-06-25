@@ -1,6 +1,3 @@
-let fullName=prompt("Enter your fullname");
-
-
-
-let username = "@" + fullName + fullName.length ;
-console.log(username);
+let marks=[97, 82, 76, 88];
+console.log(marks);
+console.log(marks.length);
