@@ -6,4 +6,4 @@ function loginusermessage(username = "Shyam"){
     return `${username} just logged in`
 }
 //console.log(loginusermessage("Pratik"))
-console.log(loginusermessage("Pratik"))
+console.log(loginusermessage("Shyam"))
