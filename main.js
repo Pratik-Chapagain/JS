@@ -29,16 +29,15 @@ if (true){
 
 //++++++++++++ inetresting +++++++++++
 
-addone(5)
+console.log(addone(5))
 
 function addone(num){
     return num + 1
 
 }
 
-
+addtwo(5)
 let addtwo = function(num){
     return num + 2
 }
 
-addtwo(5)
