@@ -29,18 +29,16 @@ if (true){
 
 //++++++++++++ inetresting +++++++++++
 
-
+addone(5)
 
 function addone(num){
-    return num+1
+    return num + 1
 
 }
 
-addone(5)
-
 
 let addtwo = function(num){
-    return num+2
+    return num + 2
 }
 
 addtwo(5)
