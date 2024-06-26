@@ -1,9 +1,12 @@
-function loginusermessage(username = "Shyam"){
-    if(!undefined){
-        console.log("please enter a username");
-        return
-    }
-    return `${username} just logged in`
+handleobject({
+    username : "pratik",
+    price : 400
+})
+
+let mynewarray = [200, 400, 300, 600]
+
+function returnsecondvalue(getarray){
+    return getarray[1]
 }
-//console.log(loginusermessage("Pratik"))
-console.log(loginusermessage("Shyam"))
+
+console.log("returnsecondvalue(mynewarray");
